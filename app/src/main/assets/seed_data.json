@@ -1,0 +1,312 @@
+{
+  "recipes": [
+    {
+      "recipeId": "550e8400-e29b-41d4-a716-446655440001",
+      "recipePhotoId": "https://images.unsplash.com/photo-1619895092538-128341789043?q=80&w=1000&auto=format&fit=crop",
+      "title": "Classic Emilian Lasagna",
+      "description": "The authentic traditional lasagna with slow-cooked Bolognese ragout, silky béchamel, and premium Parmigiano-Reggiano.",
+      "cookTime": 150,
+      "difficulty": "HARD",
+      "calories": 850,
+      "serves": 6,
+      "cost": 3,
+      "cuisineType": "ITALIAN",
+      "dietaryRestrictions": [],
+      "creationDate": "2026-04-10",
+      "publicationDate": "2026-04-11",
+      "authorId": "user_102",
+      "authorNickname": "gverdi_chef",
+      "rating": 4.9,
+      "favourite": false,
+      "ingredients": [
+        {
+          "ingredient": {
+            "ingredientId": "ing-pasta-sheets",
+            "name": "Egg pasta sheets",
+            "defaultImage": "https://images.unsplash.com/photo-1551462147-ff29053bfc14?q=80&w=200"
+          },
+          "quantity": 500.0,
+          "unit": "g"
+        },
+        {
+          "ingredient": {
+            "ingredientId": "ing-minced-meat",
+            "name": "Minced beef & pork blend",
+            "defaultImage": "https://images.unsplash.com/photo-1603048588665-791ca8aea617?q=80&w=200"
+          },
+          "quantity": 600.0,
+          "unit": "g"
+        },
+        {
+          "ingredient": {
+            "ingredientId": "ing-parmesan",
+            "name": "Parmigiano-Reggiano D.O.P.",
+            "defaultImage": "https://images.unsplash.com/photo-1486299267070-83823f5448dd?q=80&w=200"
+          },
+          "quantity": 200.0,
+          "unit": "g"
+        }
+      ],
+      "steps": [
+        {
+          "stepNumber": 1,
+          "title": "Bolognese Ragout Preparation",
+          "description": "Finely chop carrots, celery, and onions. Sauté gently in olive oil and butter, brown the minced meats, add white wine, and simmer slowly with tomato purée for 3 full hours.",
+          "stepPhotoId": "https://nobullhealthyrecipes.com/wp-content/uploads/saute-vegetables.jpg"
+        },
+        {
+          "stepNumber": 2,
+          "title": "Velvety Béchamel Assembly",
+          "description": "Prepare a traditional blonde roux with equal parts butter and flour, then whisk in hot whole milk progressively until a smooth, velvety coating texture is achieved. Season with nutmeg.",
+          "stepPhotoId": "https://www.spendwithpennies.com/wp-content/uploads/2018/11/SpendWithPennies-How-to-Make-a-Roux-23-500x500.jpg"
+        }
+      ]
+    },
+    {
+      "recipeId": "550e8400-e29b-41d4-a716-446655440002",
+      "recipePhotoId": "https://images.unsplash.com/photo-1551504734-5ee1c4a1479b?q=80&w=1000&auto=format&fit=crop",
+      "title": "Tacos al Pastor",
+      "description": "Authentic Mexican street-style tacos featuring spit-roasted marinated pork, sweet pineapple, and fresh chopped coriander.",
+      "cookTime": 45,
+      "difficulty": "MEDIUM",
+      "calories": 400,
+      "serves": 4,
+      "cost": 2,
+      "cuisineType": "MEXICAN",
+      "dietaryRestrictions": [
+        "GLUTEN_FREE",
+        "DAIRY_FREE"
+      ],
+      "creationDate": "2026-04-15",
+      "publicationDate": "2026-04-16",
+      "authorId": "user_101",
+      "authorNickname": "mrossi_chef",
+      "rating": 4.7,
+      "favourite": false,
+      "ingredients": [
+        {
+          "ingredient": {
+            "ingredientId": "ing-corn-tortillas",
+            "name": "Gluten-free corn tortillas",
+            "defaultImage": "https://images.unsplash.com/photo-1565299585323-38d6b0865b47?q=80&w=200"
+          },
+          "quantity": 12.0,
+          "unit": "pcs"
+        },
+        {
+          "ingredient": {
+            "ingredientId": "ing-pork-shoulder",
+            "name": "Pork shoulder thinly sliced",
+            "defaultImage": "https://images.unsplash.com/photo-1602470520998-f4a52199a3d6?q=80&w=200"
+          },
+          "quantity": 800.0,
+          "unit": "g"
+        },
+        {
+          "ingredient": {
+            "ingredientId": "ing-pineapple",
+            "name": "Ripe fresh pineapple",
+            "defaultImage": "https://images.unsplash.com/photo-1550258114-889489c0ad90?q=80&w=200"
+          },
+          "quantity": 1.0,
+          "unit": "pcs"
+        }
+      ],
+      "steps": [
+        {
+          "stepNumber": 1,
+          "title": "Achiote & Chili Marination",
+          "description": "Blend achiote paste, dried guajillo chilies, garlic, oregano, and pineapple juice. Marinate the thin pork slices for at least 4 hours to tenderize.",
+          "stepPhotoId": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRMpsiimQZUWQdfekHmov692JZViQCz3MQDvQ&s"
+        },
+        {
+          "stepNumber": 2,
+          "title": "Grilling and Carving",
+          "description": "Sear the pork on a super hot cast-iron skillet to achieve crispy charred edges. Serve on warmed tortillas topped with finely diced onions, coriander, and charred pineapple chunks.",
+          "stepPhotoId": "https://foodschmooze.org/wp-content/uploads/2016/03/ham-pineapple_Edsel-Little_flickr_recipe.jpg"
+        }
+      ]
+    },
+    {
+      "recipeId": "550e8400-e29b-41d4-a716-446655440003",
+      "recipePhotoId": "https://images.unsplash.com/photo-1579871494447-9811cf80d66c?q=80&w=1000&auto=format&fit=crop",
+      "title": "Salmon Nigiri & Maki Masterclass",
+      "description": "A comprehensive step-by-step tutorial to master the art of sushi rice preparation and flawless knife cuts for fresh sashimi-grade salmon.",
+      "cookTime": 60,
+      "difficulty": "HARD",
+      "calories": 350,
+      "serves": 2,
+      "cost": 3,
+      "cuisineType": "JAPANESE",
+      "dietaryRestrictions": [
+        "GLUTEN_FREE",
+        "DAIRY_FREE",
+        "SHELLFISH_FREE"
+      ],
+      "creationDate": "2026-04-16",
+      "publicationDate": "2026-04-17",
+      "authorId": "user_102",
+      "authorNickname": "gverdi_chef",
+      "rating": 4.8,
+      "favourite": true,
+      "ingredients": [
+        {
+          "ingredient": {
+            "ingredientId": "ing-sushi-rice",
+            "name": "Premium Koshihikari Sushi Rice",
+            "defaultImage": "https://images.unsplash.com/photo-1536304997881-a372c179924b?q=80&w=200"
+          },
+          "quantity": 300.0,
+          "unit": "g"
+        },
+        {
+          "ingredient": {
+            "ingredientId": "ing-fresh-salmon",
+            "name": "Sashimi-grade Atlantic Salmon",
+            "defaultImage": "https://images.unsplash.com/photo-1546069901-ba9599a7e63c?q=80&w=200"
+          },
+          "quantity": 200.0,
+          "unit": "g"
+        }
+      ],
+      "steps": [
+        {
+          "stepNumber": 1,
+          "title": "Polishing & Seasoning Shari Rice",
+          "description": "Rinse rice carefully until the running water is crystalline. Cook in a rice cooker, then transfer to a traditional wooden Hangiri bowl. Gently fold in a heated seasoned rice vinegar, sugar, and salt mixture using cutting motions with a Shamoji paddle while cooling with a fan.",
+          "stepPhotoId": "https://www.aromaco.com/wp-content/uploads/2022/07/How_and_Why_to_Rinse_Your_Rice-1200x624.jpg"
+        }
+      ]
+    },
+    {
+      "recipeId": "550e8400-e29b-41d4-a716-446655440004",
+      "recipePhotoId": "https://images.unsplash.com/photo-1603894584373-5ac82b2ae398?q=80&w=1000&auto=format&fit=crop",
+      "title": "Mughlai Butter Chicken",
+      "description": "Tender tandoori-marinated chicken thighs simmered in an indulgent silky gravy made of ripe vine tomatoes, heavy butter, cashews, and aromatic Indian spices.",
+      "cookTime": 50,
+      "difficulty": "MEDIUM",
+      "calories": 600,
+      "serves": 3,
+      "cost": 2,
+      "cuisineType": "INDIAN",
+      "dietaryRestrictions": [
+        "GLUTEN_FREE"
+      ],
+      "creationDate": "2026-04-18",
+      "publicationDate": "2026-04-18",
+      "authorId": "user_103",
+      "authorNickname": "nneri_chef",
+      "rating": 4.9,
+      "favourite": true,
+      "ingredients": [
+        {
+          "ingredient": {
+            "ingredientId": "ing-chicken-thighs",
+            "name": "Boneless chicken thighs",
+            "defaultImage": "https://images.unsplash.com/photo-1604503468506-a8da13d82791?q=80&w=200"
+          },
+          "quantity": 500.0,
+          "unit": "g"
+        },
+        {
+          "ingredient": {
+            "ingredientId": "ing-garam-masala",
+            "name": "Artisanal Garam Masala mix",
+            "defaultImage": "https://images.unsplash.com/photo-1599940824399-b87987ceb72a?q=80&w=200"
+          },
+          "quantity": 1.0,
+          "unit": "tbsp"
+        }
+      ],
+      "steps": [
+        {
+          "stepNumber": 1,
+          "title": "Yogurt Tandoori Browning",
+          "description": "Marinate chicken pieces in full-fat Greek yogurt, lemon juice, grated ginger, garlic, and Kashmiri chili. Broil or pan-sear on high heat until beautifully charred on the edges.",
+          "stepPhotoId": "https://gentletummy.com/wp-content/uploads/2025/09/gentle-tummy-greek-yogurt-chicken-gyros-gluten-free-naan-recipe-3.jpg"
+        }
+      ]
+    }
+  ],
+  "reviews": [
+    {
+      "reviewId": "rev-101",
+      "recipeId": "550e8400-e29b-41d4-a716-446655440001",
+      "authorId": "user_101",
+      "authorNickname": "mrossi_chef",
+      "authorProfileImageUri": "https://images.unsplash.com/photo-1535713875002-d1d0cf377fde?q=80&w=100",
+      "rating": 5,
+      "text": "Stunningly authentic! The 3-hour ragout technique completely transforms the depth of flavor. My Emilian grandmother would approve.",
+      "imageUris": [
+        "https://images.unsplash.com/photo-1546549032-9571cd6b27df?q=80&w=400",
+        "https://images.unsplash.com/photo-1551183053-bf91a1d81141?q=80&w=400"
+      ],
+      "timestamp": 1777032000000,
+      "authorReplyText": "Thank you so much! Extending the ragout cooking time is indeed the secret to getting that perfect velvet feel."
+    },
+    {
+      "reviewId": "rev-102",
+      "recipeId": "550e8400-e29b-41d4-a716-446655440001",
+      "authorId": "user_103",
+      "authorNickname": "nneri_chef",
+      "authorProfileImageUri": "",
+      "rating": 4,
+      "text": "Excellent step-by-step instructions. Making the egg sheets from scratch took some effort, but it was absolutely worth it. Next time I will reduce the salt slightly.",
+      "imageUris": [],
+      "timestamp": 1777045000000,
+      "authorReplyText": "Glad you liked it! Yes, depending on the saltiness of your Parmigiano block, you can definitely dial down the added salt."
+    },
+    {
+      "reviewId": "rev-201",
+      "recipeId": "550e8400-e29b-41d4-a716-446655440002",
+      "authorId": "user_102",
+      "authorNickname": "gverdi_chef",
+      "authorProfileImageUri": "https://images.unsplash.com/photo-1494790108377-be9c29b29330?q=80&w=100",
+      "rating": 5,
+      "text": "The achiote marinade recipe is flawless. Paired with the fresh pineapple cuts, it mimics the real Mexico City street food perfectly.",
+      "imageUris": [
+        "https://images.unsplash.com/photo-1551504734-5ee1c4a1479b?q=80&w=400"
+      ],
+      "timestamp": 1777120000000,
+      "authorReplyText": null
+    }
+  ],
+  "comments": [
+    {
+      "commentId": "com-301",
+      "recipeId": "550e8400-e29b-41d4-a716-446655440001",
+      "authorId": "user_103",
+      "authorNickname": "nneri_chef",
+      "authorProfileImageUri": "",
+      "text": "Can I use store-bought dry lasagna sheets if I don't have a pasta rolling pin, or will it ruin the béchamel absorption?",
+      "likedBy": [
+        "user_101",
+        "user_102"
+      ],
+      "timestamp": 1777011000000
+    },
+    {
+      "commentId": "com-302",
+      "recipeId": "550e8400-e29b-41d4-a716-446655440002",
+      "authorId": "user_102",
+      "authorNickname": "gverdi_chef",
+      "authorProfileImageUri": "",
+      "text": "Where do you usually source your dried guajillo chilies in town? I'm having trouble finding them in local supermarkets.",
+      "likedBy": [
+        "user_103"
+      ],
+      "timestamp": 1777095000000
+    }
+  ],
+  "custom_courses": [
+    {
+      "id": "course-999",
+      "title": "Gourmet International Dinners",
+      "author": "user_101",
+      "recipeIds": [
+        "550e8400-e29b-41d4-a716-446655440001",
+        "550e8400-e29b-41d4-a716-446655440002"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,27 @@
+package com.example.tastify.models
+
+enum  class CuisineType(val displayName: String) {
+    DEFAULT("Default"),
+    ITALIAN("Italian"),
+    INDIAN("Indian"),
+    CHINESE("Chinese"),
+    JAPANESE("Japanese"),
+    MEXICAN("Mexican"),
+    FRENCH("French"),
+    GREEK("Greek"),
+    SPANISH("Spanish"),
+    THAI("Thai"),
+    AMERICAN("American"),
+    KOREAN("Korean"),
+    VIETNAMESE("Vietnamese"),
+    TURKISH("Turkish"),
+    LEBANESE("Lebanese"),
+    MOROCCAN("Moroccan"),
+    BRAZILIAN("Brazilian"),
+    PERUVIAN("Peruvian"),
+    ARGENTINIAN("Argentinian"),
+    BRITISH("British"),
+    GERMAN("German"),
+    PORTUGUESE("Portuguese"),
+    ETHIOPIAN("Ethiopian"),
+}
